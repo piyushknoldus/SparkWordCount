@@ -13,5 +13,5 @@ The aim is to run the application via creating jar.
 
     java -jar /path-to-your-jar
 
-    e.g - java -jar /home/knoldus/workstation/SampleCalc/target/scala-2.12/SampleCalc-assembly-1.0.jar /path-toinputFile /path-to-outputFile
+    e.g - java -jar /home/knoldus/workstation/SparkWordCount/target/scala-2.12/SparkWordCount-assembly-1.0.jar /path-toinputFile /path-to-outputFile
 
